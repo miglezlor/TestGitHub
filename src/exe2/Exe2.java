@@ -13,7 +13,7 @@ public class Exe2 {
         System.out.println("valor:"+ valor + "\n resultado: "+ resultado);
         
        System.out.println("Modificación");
-       /* comentario */ 
+       /* comentario diferente */ 
         
         
         
