@@ -12,6 +12,8 @@ public class Exe2 {
         resultado = valor ++ ;
         System.out.println("valor:"+ valor + "\n resultado: "+ resultado);
         
+       System.out.println("Modificación");
+        
         
         
         
